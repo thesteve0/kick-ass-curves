@@ -1,0 +1,16 @@
+Devrelcon talk
+
+1. Why I am giving talk- help us with the goal of making our users excited and succesful on our product/platform
+2. Models - all of them wrong, some of them are useful. MOdels are a tool 
+3. Kathy Sierra and the wonderful too/model she has given us - the kick ass curve
+4. Show the curve with it labeled - redraw using different colors - explain the curve
+5, Explain some basic things we can derive from the curve - like why doc and introductory material are so important
+6. Now we can understand why we need diversity in learning material. People start with different points on the curve for understanding your project/product
+7. Who do PMs spend all their time talking to  and where are they on the curve- Where do we spend a lot of our time - This is why we don't always see eye to eye in terms of priority
+8 Where do most of our engineers live - maybe this is why it's harder to get most of the excited about ease of use
+9. Kathy's curve only shows us a green field experience. Let's look at why our job becomes harder when another product is already being used by the developer
+10. Take home from the curve
+	THink about who your audience is and how to get them past the suck zone ASAP
+	If we can't get people out of the suck zone before they give up  - we will never get them to experience the power
+	Remember when talking to others to think about where they are on the curve 
+	Use the curve when it helps, ignore it when it is doesn't. 
