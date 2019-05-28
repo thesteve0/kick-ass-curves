@@ -17,7 +17,15 @@
    inkscape:version="0.92.1 r15371"
    sodipodi:docname="1IntroCurve.svg">
   <defs
-     id="defs2" />
+     id="defs2">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 105 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="297 : 105 : 1"
+       inkscape:persp3d-origin="148.5 : 70 : 1"
+       id="perspective17834" />
+  </defs>
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
@@ -25,11 +33,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.7"
-     inkscape:cx="572.0745"
-     inkscape:cy="274.81995"
+     inkscape:zoom="0.49497475"
+     inkscape:cx="837.94976"
+     inkscape:cy="375.73455"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer3"
+     inkscape:current-layer="layer15"
      showgrid="true"
      showguides="false"
      inkscape:lockguides="true"
@@ -50,7 +58,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -84,7 +92,7 @@
          id="tspan4775"
          x="52.916664"
          y="76.443039"
-         style="stroke-width:0.26458332"></tspan></text>
+         style="stroke-width:0.26458332" /></text>
     <flowRoot
        xml:space="preserve"
        id="flowRoot4805"
@@ -96,7 +104,7 @@
            height="20"
            x="400"
            y="353.70078" /></flowRegion><flowPara
-         id="flowPara4811"></flowPara></flowRoot>  </g>
+         id="flowPara4811" /></flowRoot>  </g>
   <g
      inkscape:groupmode="layer"
      id="layer5"
@@ -188,7 +196,7 @@
            height="40"
            x="100"
            y="733.70081" /></flowRegion><flowPara
-         id="flowPara4875"></flowPara></flowRoot>    <text
+         id="flowPara4875" /></flowRoot>    <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        x="274.33514"
@@ -242,4 +250,99 @@
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="csccsssc" />
   </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer13"
+     inkscape:label="Where we live"
+     style="display:none">
+    <rect
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#f10000;stroke-width:1;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect17744"
+       width="58.208332"
+       height="31.75"
+       x="42.333332"
+       y="157.08334" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot17748"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.33333397px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#800000;fill-opacity:1;stroke:none"
+       transform="matrix(0.26458333,0,0,0.26458333,-6.0476181,9.0714291)"><flowRegion
+         id="flowRegion17750"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.33333397px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#800000"><rect
+           id="rect17752"
+           width="220"
+           height="120.00002"
+           x="180"
+           y="473.70078"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.33333397px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#800000"
+           ry="0" /></flowRegion><flowPara
+         id="flowPara17756">Where we Spend Our Time</flowPara></flowRoot>  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer14"
+     inkscape:label="Where PMs Live"
+     style="display:none">
+    <rect
+       style="display:inline;opacity:1;fill:none;fill-opacity:1;stroke:#f115f1;stroke-width:1;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect17744-4"
+       width="58.208332"
+       height="31.75"
+       x="142.875"
+       y="67.125" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot17813"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.33333397px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#800080;fill-opacity:1;stroke:none"
+       transform="matrix(0.26458333,0,0,0.26458333,0,5.2916667)"><flowRegion
+         id="flowRegion17815"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.33333397px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#800080"><rect
+           id="rect17817"
+           width="220"
+           height="100"
+           x="540"
+           y="153.70079"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.33333397px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#800080" /></flowRegion><flowPara
+         id="flowPara17821">PMs Live</flowPara><flowPara
+         id="flowPara17823">Here</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot17825"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:Georgia;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       transform="scale(0.26458333)"><flowRegion
+         id="flowRegion17827"><rect
+           id="rect17829"
+           width="0"
+           height="20"
+           x="540"
+           y="153.70079" /></flowRegion><flowPara
+         id="flowPara17831"></flowPara></flowRoot>  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer15"
+     inkscape:label="Where Engineers Live"
+     style="display:inline">
+    <path
+       id="path17856"
+       style="fill:none;stroke:#916f6f;stroke-width:1.75;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 111.86328,155.03711 c -1.49238,0.26598 -3.01403,0.0533 -4.51654,0.19205 -0.70716,0.0524 -1.4298,0.18119 -2.04002,0.56341 -0.75786,0.41373 -1.26265,1.20252 -2.10164,1.48087 -3.403054,1.36386 -6.770075,2.82569 -10.243022,4.00744 -3.743934,1.33905 -7.559516,2.54709 -11.087689,4.40858 -1.635162,0.87387 -3.193126,2.01252 -4.205443,3.59428 -0.896521,1.37339 -1.273925,3.02506 -1.303418,4.64993 -0.03105,1.77277 0.368965,3.54235 1.077879,5.16275 0.347403,0.73591 0.938948,1.34002 1.64585,1.7378 1.184188,0.71683 2.600985,0.91468 3.964057,0.88443 4.255566,0.0572 8.511598,0.0915 12.766305,0.19874 2.650015,0.0488 5.304811,0.10497 7.951731,-0.0608 3.89039,-0.36201 7.66784,-1.95299 10.60166,-4.5413 0.94309,-0.82159 1.80538,-1.73475 2.57623,-2.71961 0.50608,-0.94852 0.46439,-2.05342 0.53033,-3.09523 0.0967,-4.13967 0.13595,-8.30232 -0.43385,-12.41323 -0.10991,-0.57682 -0.26645,-1.15709 -0.55164,-1.67254 -0.40357,-0.52437 -0.92714,-0.94324 -1.45304,-1.33853 -0.83251,-0.58363 -1.80582,-1.04764 -2.8428,-1.03779 -0.11162,-0.005 -0.22326,-0.002 -0.33494,-0.001 z"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#916f6f;stroke-width:1.75;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 252.5838,13.273803 c -5.51783,0.100137 -10.97592,1.014354 -16.47716,1.362675 -2.04175,0.148247 -4.07208,0.432041 -6.11555,0.554076 -1.82235,0.06355 -3.63892,-0.282392 -5.4622,-0.139121 -1.00885,0.04187 -1.98741,0.293189 -2.96404,0.527631 -1.96427,0.430045 -3.96073,0.687949 -5.94145,1.029043 -1.58999,0.235374 -3.1632,0.56431 -4.73939,0.874695 -2.9768,0.563137 -6.01852,0.54229 -9.02006,0.890948 -1.43134,0.178249 -2.85826,0.458204 -4.20132,0.997853 -3.13141,1.270163 -6.3589,2.321594 -9.38148,3.847173 -1.93117,0.98282 -3.78167,2.216221 -5.1505,3.920846 -1.35406,1.64099 -2.19356,3.635279 -2.83634,5.644813 -0.7352,2.416896 -1.13427,4.926445 -1.35123,7.439544 -0.41314,5.491647 0.48651,11.149088 3.01377,16.073261 0.62863,1.174022 1.65446,2.104535 2.8496,2.680425 1.82673,0.961566 3.84276,1.478583 5.83594,1.968013 5.07136,1.115764 10.29676,1.106152 15.46215,1.013243 5.13916,-0.07392 10.27954,-0.04015 15.41833,-0.137891 5.96729,-0.146688 11.94007,-0.780296 17.74614,-2.197015 6.83842,-1.65322 13.44271,-4.361549 19.35452,-8.191855 3.04495,-1.936497 6.05444,-3.938134 8.91434,-6.141332 3.80546,-2.956414 7.37495,-6.2882 10.18345,-10.224083 2.05663,-2.935246 3.41708,-6.347135 3.96468,-9.888301 0.29323,-1.779255 0.56114,-3.562649 0.8646,-5.340188 0.1065,-0.749153 0.26373,-1.509621 0.1914,-2.267578 -0.23289,-1.018204 -1.13361,-1.732611 -2.0441,-2.143306 -1.02787,-0.432805 -2.1603,-0.457068 -3.23835,-0.692626 -1.8705,-0.324885 -3.73199,-0.704172 -5.59508,-1.064037 -1.31585,-0.121681 -2.63871,-0.145826 -3.95699,-0.229063 -2.5729,-0.07805 -5.14769,0.04316 -7.72037,-0.05921 -2.53413,-0.05266 -5.06839,-0.122375 -7.60331,-0.108629 z m 10.39258,35.796875 c 0.0348,-0.08002 0.0174,-0.03991 0,0 z m -79.84571,9.697265 0.0273,-0.0293 z"
+       id="path17860"
+       inkscape:connector-curvature="0" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot17876"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:32px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#6c5353;fill-opacity:1;stroke:none"
+       transform="scale(0.26458333)"><flowRegion
+         id="flowRegion17878"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:32px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#6c5353"><rect
+           id="rect17880"
+           width="300"
+           height="80"
+           x="660"
+           y="393.70078"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:32px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#6c5353" /></flowRegion><flowPara
+         id="flowPara17884">Engineers are </flowPara><flowPara
+         id="flowPara17886">In-Between</flowPara></flowRoot>  </g>
 </svg>
